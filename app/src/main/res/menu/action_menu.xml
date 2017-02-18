@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/doneMenuItem"
+        android:icon="@drawable/ic_done"
+        android:title="Hoàn tất"/>
+    <item android:id="@+id/cancelMenuItem"
+        android:icon="@drawable/ic_cancel"
+        android:title="Hủy bỏ"/>
+</menu>
